@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EvaluationManagerRWA
 {
-    public partial class Form1 : Form
+    public partial class FrmStudents : Form
     {
-        public Form1()
+        public FrmStudents()
         {
             InitializeComponent();
         }
